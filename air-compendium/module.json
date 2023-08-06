@@ -1,0 +1,145 @@
+{
+  "id": "air-compendium",
+  "name": "air-compendium",
+  "title": "Adventures in Rokugan Module",
+  "description": "AiR = Adventures in Rokugan",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.8.6",
+  "compatibleCoreVersion": "11",
+  "compatibility": {
+    "minimum": "0.8.6",
+    "verified": "10",
+    "maximum": "11"
+  },
+  "authors": [
+    {
+      "name": "Edge Studio"
+    }
+  ],
+  "packs": [
+    {
+      "name": "actors",
+      "label": "Actors (AiR)",
+      "path": "/packs/actors.db",
+      "entity": "Actor",
+      "type": "Actor",
+      "system": "dnd5e"
+    },
+    {
+      "name": "monsters",
+      "label": "Monsters (AiR)",
+      "path": "/packs/monsters.db",
+      "entity": "Actor",
+      "type": "Actor",
+      "system": "dnd5e"
+    },
+    {
+      "name": "items",
+      "label": "Items (AiR)",
+      "path": "/packs/items.db",
+      "entity": "Item",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "classes",
+      "label": "Classes (AiR)",
+      "path": "/packs/classes.db",
+      "entity": "Item",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "subclasses",
+      "label": "Subclasses (AiR)",
+      "path": "/packs/subclasses.db",
+      "entity": "Item",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "class-features",
+      "label": "Class Features (AiR)",
+      "path": "/packs/class-features.db",
+      "entity": "Item",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "techniques",
+      "label": "Techniques (AiR)",
+      "path": "/packs/techniques.db",
+      "entity": "Item",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "backgrounds",
+      "label": "Backgrounds (AiR)",
+      "path": "/packs/backgrounds.db",
+      "entity": "Item",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "species",
+      "label": "Species (AiR)",
+      "path": "/packs/species.db",
+      "entity": "Item",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "spells",
+      "label": "Spells (AiR)",
+      "path": "/packs/spells.db",
+      "entity": "Item",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "feats",
+      "label": "Feats (AiR)",
+      "path": "/packs/feats.db",
+      "entity": "Item",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "monster-features",
+      "label": "Monster Features (AiR)",
+      "path": "/packs/monster-features.db",
+      "entity": "Item",
+      "type": "Item",
+      "system": "dnd5e"
+    },      
+    {
+      "name": "adventures-in-rokugan",
+      "label": "Adventures in Rokugan",
+      "path": "/packs/adventures-in-rokugan.db",
+      "entity": "JournalEntry",
+      "type": "JournalEntry"
+    },
+    {
+      "name": "maps",
+      "label": "Scenes (AiR)",
+      "path": "/packs/maps.db",
+      "entity": "Scene",
+      "type": "Scene"
+    },
+    {
+      "name": "rolltables",
+      "label": "Tables (AiR)",
+      "path": "/packs/rolltables.db",
+      "entity": "RollTable",
+      "type": "RollTable"
+    }
+  ],
+  "esmodules": [
+    "./scripts/init.js"
+  ],
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "manifestPlusVersion": "1.2.0"
+}
