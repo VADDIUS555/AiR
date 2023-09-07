@@ -1,0 +1,499 @@
+{
+  "name": "Book 1: Chapter 5: Customization and Feats",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Introduction",
+      "type": "text",
+      "_id": "5SHj8cSQmQwBdsv2",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>AiR p.220</p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">There are numerous ways you can customize your character, the most prominent of which are multiclassing and feats. This section provides restrictions and guidance on multiclassing options, as well as a list of setting-specific feats. The names and game statistics of the feats in this chapter are designated as Open Game Content. The background descriptions in this chapter are designated as closed content.</span></p><p></p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "sort": 200000,
+      "name": "Multiclassing",
+      "type": "text",
+      "_id": "GQwcgY3QSIjg0qbs",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>AiR p.221</p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Multiclassing functions on the same paradigm discussed in the SRD. Given that there are new classes, however, this section covers the prerequisites for multiclassing into these classes and explains how certain combinations of abilities interact.</span></p><h2><span class=\"fontstyle0\">Multi-source Multiclassing</span></h2><p>AiR p.223</p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Mechanically, there is nothing preventing players from multiclassing using classes from the SRD, other 5e core materials, or other 5e materials approved by the GM. In fact, class levels from other sources could be used to reflect characters from unique traditions, farflung lands, or even other worlds. However, GMs should be aware of several factors while considering whether to allow multiclassing with classes outside this book. </span></p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">First and foremost, certain classes fill similar roles. In most cases, the opportunity costs to multiclassing or relatively redundant features keep this under control. However, in a few cases, there are significant synergies. For instance, the bushi and duelist classes and the Fighter class in the SRD are extremely strong together, as low-level fighter class features like Action Surge and Fighting Styles grant a potentially multiplicative benefit when combined with the abilities of the bushi and duelist. </span></p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">The simplest option is to restrict classes to the ones presented in this book, but that might not be the most fun for all groups of players. A slightly more permissive stance would allow classes from other 5e sources, but restrict multiclassing to classes that appear within the same source. The most complex option, but potentially the most fun for players who enjoy optimization, is to allow players to multiclass as they please across sources and simply tune the difficulty of encounters to compensate for the strength of the PCs. GMs should consider whether they want to allow multiclassing with outside sources as they begin their campaign, and discuss this with their players before character creation to make sure that everyone is on the same page and the options available reflect the group’s mindset on the matter.</span></p><h1><span class=\"fontstyle0\">Prerequisites</span></h1><p>AiR p.221</p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">When multiclassing, the following ability score prerequisites are required to take levels in a new class, as listed in the table below. Characters also gain the proficiencies listed in the table when they multiclass.</span></p><h1><span class=\"fontstyle0\">Class Features</span></h1><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Multiclassing sometimes allows a character to gain class features that interact, and these interactions are explained in this section. For any class feature already covered in the SRD’s multiclassing section (such as <strong>Extra Attack</strong>), this information has not been repeated.</span></p><h2><span class=\"fontstyle0\">Focus Points</span></h2><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Both the bushi and duelist class grant a character access to the Focus Points feature. The focus points feature is shared between these classes, and can be used for the features and martial techniques granted by either class. A character with one or more levels in both bushi and duelist gains only 1 focus point at the end of each of their turns plus any focus points granted by their Combat Stance. Additionally, they use their combined bushi and duelist level to determine their focus point maximum. For example, if a character is a 4th level bushi and a 5th level duelist, their focus point maximum is equal to that of a 9th level bushi (or a 9th level duelist). Their martial techniques and other class features are determined separately by their level in each class.</span></p><h2><span class=\"fontstyle0\">Combat Stances</span></h2><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">A character can master combat stances from both the bushi and duelist classes, but can still only ever use one stance at a time.</span></p><h1><span class=\"fontstyle0\">Table 5–1: Multiclassing Prerequisites and Proficiencies Gained</span></h1><img src=\"https://i.imgur.com/VAH1orL.png\" />",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "sort": 300000,
+      "name": "Feats",
+      "type": "text",
+      "_id": "33xB1WwE5jpI7S5J",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>AiR p.222</p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">The following setting-specific feats are available, and are acquired in the manner described in the SRD. At the GM’s discretion, a character can also select feats from other 5e sources.</span></p><p>@UUID[Compendium.dnd5e.rules.hgHJdp8lTiJ5TpN9.JournalEntryPage.8V1QMgTrcYbGWppo]{SRD Feats}</p><h1><span class=\"fontstyle0\">General Feats</span></h1><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">The following feats are available to all characters who meet their prerequisites.</span></p><p>@UUID[Compendium.air-compendium.feats.7pbQvC2Xn2MzVqMF]{Battlefield Training} @UUID[Compendium.air-compendium.feats.f8pLzMsNtuX5lJAr]{Charm Connoisseur} @UUID[Compendium.air-compendium.feats.uF8r1qhr1m9FrA0P]{Clarity in Solace}</p><p>@UUID[Compendium.air-compendium.feats.ISJh3LnDZTn3OpZw]{Fashionable} @UUID[Compendium.air-compendium.feats.FCYZqQWv01JJmo3i]{Forbidden Sorcery} @UUID[Compendium.air-compendium.feats.G8bw5l2oK3yTDug2]{Genuine Idealist}</p><p>@UUID[Compendium.air-compendium.feats.SljrYaznNOKeTVWN]{Graceful Combatant} @UUID[Compendium.air-compendium.feats.fgTd77WOVFQlr72h]{Impromptu Duel Coach} @UUID[Compendium.air-compendium.feats.dUmk92B4qFmTGGbZ]{Paragon}</p><p>@UUID[Compendium.air-compendium.feats.MbYd1tKikHjO5EDq]{Shadowlands Might} @UUID[Compendium.air-compendium.feats.gdaCjGqJtkedTH7u]{Unusual Weapon Mastery} @UUID[Compendium.air-compendium.feats.ydSg8kyVkqxWvJBf]{Watchful Ancestors}</p><h2><span class=\"fontstyle0\">Table 5–2: Unusual Weapon Examples</span></h2><img src=\"https://i.imgur.com/fzKhub3.png\" />",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "sort": 400000,
+      "name": "Crab Clan Feats",
+      "type": "text",
+      "_id": "6tRACFlzAYL2WT3g",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>AiR p.226</p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">The following feats are suggested options for building iconic Crab Clan characters. They can be selected by any character who meets their prerequisites.</span></p><p>@UUID[Compendium.air-compendium.feats.zz8kZJzvciPyV1UA]{Ceaseless Vigilance}</p><p>@UUID[Compendium.air-compendium.feats.k3bh9zsOtAosTwhR]{Endurance Training}</p><p>@UUID[Compendium.air-compendium.feats.foOVsob4XSdQZy8w]{Engineering Experience}</p><p>@UUID[Compendium.air-compendium.feats.eHdUb3ZqMv8IGz6h]{Fell Strikes}</p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "sort": 500000,
+      "name": "Crane Clan Feats",
+      "type": "text",
+      "_id": "KzWCnb2VpuSw9Rf0",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>AiR p.227</p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">The following feats are suggested options for building iconic Crane Clan characters. They can be selected by any character who meets their prerequisites.</span></p><p>@UUID[Compendium.air-compendium.feats.B1m72AgLxp5G4bfb]{Crane: Cautious Rhetorician}</p><p>@UUID[Compendium.air-compendium.feats.Ar012LK6V0fBucgb]{Crane: Poise and Purpose}</p><p>@UUID[Compendium.air-compendium.feats.JFxFpYp2zuo2SD7h]{Crane: Resolve of Iron}</p><p>@UUID[Compendium.air-compendium.feats.DcSvM8414kJ9JmGL]{Crane: Well-Connected}</p><h2><span class=\"fontstyle0\">Table 5–3: Well-Connected Item Acquisition</span></h2><img src=\"https://i.imgur.com/Y9J30WJ.png\" />",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "sort": 600000,
+      "name": "Dragon Clan Feats",
+      "type": "text",
+      "_id": "LPdduS6pszTs3kza",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>AiR p.228</p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">The following feats are suggested options for building iconic Dragon Clan characters. They can be selected by any character who meets their prerequisites.</span></p><p>@UUID[Compendium.air-compendium.feats.oFRwIo4AoR9BTi2m]{Dragon: Adaptable Strategy}</p><p>@UUID[Compendium.air-compendium.feats.lSCdiGZRAE20RSQt]{Dragon: Altitude Training}</p><p>@UUID[Compendium.air-compendium.feats.5ZCc8puAfMw70d5p]{Dragon: Disruptive Strikes}</p><p>@UUID[Compendium.air-compendium.feats.LTB9BOd1ZsCW72aL]{Dragon: Keen Study}</p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "sort": 700000,
+      "name": "Lion Clan Feats",
+      "type": "text",
+      "_id": "sw0SjFE9WZV79gGp",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>AiR p.229</p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">The following feats are suggested options for building iconic Lion Clan characters. They can be selected by any character who meets their prerequisites.</span></p><p>@UUID[Compendium.air-compendium.feats.DjDSJNgGHYG33Tqg]{Lion: Combat Drill}</p><p>@UUID[Compendium.air-compendium.feats.W3OQxtiu2EdQRtaV]{Lion: Field Medicine}</p><p>@UUID[Compendium.air-compendium.feats.SIxiYvHtP5botYtI]{Lion: Marching Stamina}</p><p>@UUID[Compendium.air-compendium.feats.hXoBb4bywn0I8A6c]{Lion: Motivating Storyteller}</p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "sort": 800000,
+      "name": "Phoenix Clan Feats",
+      "type": "text",
+      "_id": "cG9Z8DLdPX33gf5F",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>AiR p.230</p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">The following feats are suggested options for building iconic Phoenix Clan characters. They can be selected by any character who meets their prerequisites.</span></p><p>@UUID[Compendium.air-compendium.feats.Ga1FJjlP9ar2fHzX]{Phoenix: Apprentice Ritualist}</p><p>@UUID[Compendium.air-compendium.feats.H7jiwC3YO3wqKMR8]{Phoenix: Elemental Alignment}</p><p>@UUID[Compendium.air-compendium.feats.dIwnEXm3emzofIxx]{Phoenix: Loremaster}</p><p>@UUID[Compendium.air-compendium.feats.1LghCgnEqbjCgLhG]{Phoenix: Valorous Bodyguard}</p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "sort": 900000,
+      "name": "Scorpion Clan Feats",
+      "type": "text",
+      "_id": "kqScwl8bENY6G5bx",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>AiR p.231</p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">The following feats are suggested options for building iconic Scorpion Clan characters. They can be selected by any character who meets their prerequisites.</span></p><p>@UUID[Compendium.air-compendium.feats.SUbheXj1ri41wMT5]{Scorpion : Secrets upon Secrets}</p><p>@UUID[Compendium.air-compendium.feats.AlbxDMfb7qlLVDeb]{Scorpion : Tenebrous Arts}</p><p>@UUID[Compendium.air-compendium.feats.Kw2FAl7gxjeTwfJI]{Scorpion : Tread Lightly}</p><p>@UUID[Compendium.air-compendium.feats.09GlvOBOF4bePIsq]{Scorpion : Weakness as Strength}</p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "sort": 1000000,
+      "name": "Unicorn Clan Feats",
+      "type": "text",
+      "_id": "P5DEzrIvU501taG6",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>AiR p.232</p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">The following feats are suggested options for building iconic Unicorn Clan characters. They can be selected by any character who meets their prerequisites.</span></p><p>@UUID[Compendium.air-compendium.feats.Lwz3gOMtKNe0wQeV]{Unicorn: Animal Companion}</p><p>@UUID[Compendium.air-compendium.feats.pmG6pQqsd8WkQuwJ]{Unicorn: Seasoned Rider}</p><p>@UUID[Compendium.air-compendium.feats.58jg2qN8dEyqFYyK]{Unicorn: Trade Expert}</p><p>@UUID[Compendium.air-compendium.feats.mo4xTTJyurey7DqD]{Unicorn: Unwavering Heart}</p><h1><span class=\"fontstyle0\">Table 5–4: Animal Companion Options</span></h1><img src=\"https://i.imgur.com/SvtRx7J.png\" />",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "sort": 1100000,
+      "name": "Imperial Family Feats",
+      "type": "text",
+      "_id": "yRQlfmSF0kAo5h5c",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>AiR p.234</p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">The following feats are suggested options for building iconic Imperial characters. They can be selected by any character who meets their prerequisites.</span></p><p>@UUID[Compendium.air-compendium.feats.FnmR5FmR53MxqOFX]{Imperial: Celestial Authority}</p><p><strong>Prerequisite</strong>: Imperial Family background or Charisma 15 or higher</p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "sort": 1200000,
+      "name": "Minor Clan Feats",
+      "type": "text",
+      "_id": "xtCvuZAjWqjQrDlW",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>AiR p.234</p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">The following feats are suggested options for building iconic Minor Clan characters. They can be selected by any character who meets their prerequisites.</span></p><p>@UUID[Compendium.air-compendium.feats.evvckFGpdu0ewV43]{Minor: Dreamscape Journey}</p><p><strong>Prerequisite</strong>: Moth Clan background or proficiency in Religion</p><p>@UUID[Compendium.air-compendium.feats.VAxHLwCHLB9pycyR]{Minor: Exorcist’s Sight}</p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\"><strong>Prerequisite</strong>: Falcon Clan background or proficiency in Arcana</span></p><p>@UUID[Compendium.air-compendium.feats.asW60I3zD9tQadzx]{Minor: Favor of Lady Sun}</p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\"><strong>rerequisite</strong>: Centipede Clan background or proficiency in Religion, must be able to perform invocations</span></p><p>@UUID[Compendium.air-compendium.feats.0v8obLOLXHdtWI5m]{Minor: Hearty Boast}</p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\"><strong>Prerequisite</strong>: Mantis Clan background or proficiency in Performanc</span></p><p>@UUID[Compendium.air-compendium.feats.qeNMzEJlaEn6zoIr]{Minor: Innocuous Presence}</p><p><strong>Prerequisite</strong>: Deer Clan background or proficiency in Stealth</p><p>@UUID[Compendium.air-compendium.feats.jpNZo8kETYSrAxIj]{Minor: Killing Grip}</p><p><strong>Prerequisite</strong>: Badger Clan background or proficiency in Athletics</p><p>@UUID[Compendium.air-compendium.feats.G66tRBNswUS9bUAC]{Minor: “Legitimate Business Connections”}</p><p><strong>Prerequisite</strong>: Tortoise Clan background or proficiency in Sleight of Hand</p><p>@UUID[Compendium.air-compendium.feats.X5s6W0BHxOodDRcq]{Minor: Phantom Thief}</p><p><strong>Prerequisite</strong>: Cat Clan background or proficiency in sleight of hand</p><p>@UUID[Compendium.air-compendium.feats.V48WMmcTdsJvasnd]{Minor: Sling Specialist}</p><p><strong>Prerequisite</strong>: Sparrow Clan background or proficiency in Survival</p><p>@UUID[Compendium.air-compendium.feats.2Zav6O0efSHBOWOS]{Minor: Spiritual Evasion}</p><p><strong>Prerequisite</strong>: Hare Clan background or proficiency in Religion</p><p>@UUID[Compendium.air-compendium.feats.97IebJwgThmJqZm0]{Minor: Sting of Agony}</p><p><strong>Prerequisite</strong>: Wasp Clan background or proficiency in Perception</p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "sort": 1300000,
+      "name": "Regional Background Feats",
+      "type": "text",
+      "_id": "MWz3HyORvhNf2x9i",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>AiR p.237</p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">The following feats are suggested options for building iconic characters from various regional backgrounds. They can be selected by any character who meets their prerequisites.</span></p><p>@UUID[Compendium.air-compendium.feats.BNuFaPjywrGwWPeh]{Regional: Artisan’s Ingenuity}</p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\"><strong style=\"box-sizing:border-box;user-select:text\">Prerequisite</strong>: Non-samurai background or Charisma 15 or higher</span></p><p>@UUID[Compendium.air-compendium.feats.uc93gcUBn7683VWc]{Regional: Brawler’s Edge}</p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\"><strong style=\"box-sizing:border-box;user-select:text\">Prerequisite</strong>: Non-samurai background or Strength 15 or higher</span></p><p>@UUID[Compendium.air-compendium.feats.myIE1qtHAjPiKOHq]{Regional: Laborer’s Endurance}</p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\"><strong style=\"box-sizing:border-box;user-select:text\">Prerequisite</strong>: Non-samurai background or Constitution 15 or higher</span></p><p>@UUID[Compendium.air-compendium.feats.YPynGMNDmVXOH1oC]{Regional: Merchant’s Streetwise}</p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\"><strong style=\"box-sizing:border-box;user-select:text\">Prerequisite</strong>: Non-samurai background or Dexterity 15 or higher</span></p><p>@UUID[Compendium.air-compendium.feats.H75CYnYGuaK5a2tA]{Regional: Survivalist’s Eye}</p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\"><strong style=\"box-sizing:border-box;user-select:text\">Prerequisite</strong>: Non-samurai background or Wisdom 15 or higher</span></p><p>@UUID[Compendium.air-compendium.feats.msVurUo9hA8pQljn]{Regional: Translator’s Knowledge}</p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\"><strong style=\"box-sizing:border-box;user-select:text\">Prerequisite</strong>: Non-samurai background or Intelligence 15 or higher</span></p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "sort": 1400000,
+      "name": "Species Feats",
+      "type": "text",
+      "_id": "2D8Jy59lwEsenK7M",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>AiR p.238</p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">The following feats enhance the unique physiological abilities of non-human characters. They can be selected by any character who meets their prerequisites.</span></p><p>@UUID[Compendium.air-compendium.feats.wX91fgdOyoNTZSAz]{Species: Constriction}</p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\"><strong style=\"box-sizing:border-box;user-select:text\">Prerequisite</strong>: Naga species</span></p><p>@UUID[Compendium.air-compendium.feats.yb34QnHaglj4bOII]{Species: Enhanced Demonic Transformation}</p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\"><strong style=\"box-sizing:border-box;user-select:text\">Prerequisite</strong>: Mazoku species</span></p><p>@UUID[Compendium.air-compendium.feats.sTx7I6ZEkQD5PjSw]{Species: Haunting Phenomena}</p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\"><strong style=\"box-sizing:border-box;user-select:text\">Prerequisite</strong>: Specter species</span></p><p>@UUID[Compendium.air-compendium.feats.pmQzv7ri38Z9mF2c]{Species: Nimble Glider}</p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\"><strong style=\"box-sizing:border-box;user-select:text\">Prerequisite</strong>: Tengu species</span></p><p>@UUID[Compendium.air-compendium.feats.UFlWJvX2hmMHJ6w6]{Species: Persistence}</p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\"><strong style=\"box-sizing:border-box;user-select:text\">Prerequisite</strong>: Human species</span></p><p>@UUID[Compendium.air-compendium.feats.9BOwlmhOTrKzznOM]{Species: Scamper}</p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\"><strong style=\"box-sizing:border-box;user-select:text\">Prerequisite</strong>: Nezumi species</span></p><p>@UUID[Compendium.air-compendium.feats.B2qQMmIkJY22NbQw]{Species: Skilled Shapeshifter}</p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\"><strong style=\"box-sizing:border-box;user-select:text\">Prerequisites</strong>: Animal yōkai species</span></p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    }
+  ],
+  "flags": {
+    "core": {},
+    "exportSource": {
+      "world": "air",
+      "system": "dnd5e",
+      "coreVersion": "11.307",
+      "systemVersion": "2.3.0"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1678142264002,
+    "modifiedTime": 1692158440257,
+    "lastModifiedBy": "t7UE1inU8eg27wBm"
+  },
+  "folder": "WTu1BHrsIkZbucr8"
+}

@@ -1,0 +1,367 @@
+{
+  "name": "Book 1: Chapter 7: Techniques",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Using Techniques",
+      "type": "text",
+      "_id": "wsNiKXwzybTNUBJm",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h1>Chapter 7: Techniques</h1><p>AiR p.248</p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Techniques are special abilities used by several classes in <strong>Adventures in Rokugan</strong>: duelists and bushi use martial techniques, which represent heroic feats of physical prowess, and ritualists use invocations, which allow them to commune with the spirits for powerful supernatural effects. Each class that has access to techniques acquires those techniques as it progresses, as described in its class table.</span></p><hr />",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "sort": 200000,
+      "name": "Using Techniques",
+      "type": "text",
+      "_id": "kv11Dc450Z10ln0I",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>AiR p.249</p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">There are several new concepts that are important for understanding techniques, described below.</span></p><h1><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Areas of Effect</span></h1><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Areas of effect interact with techniques as described below.</span></p><h2><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Cube</span></h2><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Cubes behave as described in the SRD.</span></p><h2><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Line</span></h2><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Lines are described in full in the SRD. In <strong>Adventures in Rokugan</strong>, lines are assumed to be 5 feet wide unless specified otherwise. If it has multiple targets, a line affects creatures in order from closest to farthest away, as shown in the graphic below:</span></p><img src=\"https://i.imgur.com/Zp8J8xg.png\" /><h2><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Slam</span></h2><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">A slam is 15 feet wide, 5 feet tall, and is centered on the character or point from which it originates. Its length varies. If it has multiple targets, a slam affects creatures in order from closest to farthest away and from left to right, as shown in the graphic below:</span></p><img src=\"https://i.imgur.com/y2G3bxr.png\" /><h2><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Sphere</span></h2><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Spheres behave as described in the SRD.</span></p><h2><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Sweep</span></h2><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">A sweep is a crescent, centered on the character or point from which it originates. It is 5 feet tall, and its length varies. When performing a sweep, a character chooses if the sweep moves left to right or right to left. If it has multiple targets, a sweep affects creatures in order from the chosen direction to the other and from closest to farthest away, as shown in the graphic below:</span></p><img src=\"https://i.imgur.com/EiGZE7F.png\" /><h2><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Wave</span></h2><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">A wave is a triangular emanation that widens as it extends. It begins 5 feet in front of its user. Its length varies by the ability that produces it, and its width at any point is equal to its length. If using a grid, it affects any creature whose space falls partially or entirely within its area of effect. A wave is 5 feet tall unless specified otherwise. If it has multiple targets, a wave affects creatures in order from closest to farthest away and from left to right, as shown in the graphic below:</span></p><img src=\"https://i.imgur.com/22i46f6.png\" /><h1>Combining Technique Effects</h1><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">The ongoing effects of different techniques are cumulative, and a character can benefit (or suffer) from the ongoing effects of two or more different techniques at once.</span></p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">However, the ongoing effects of techniques with the same name are not cumulative. Instead, if a technique’s ongoing effects would be applied to the same character multiple times, the most potent effect is the only one applied. This is the one with the most significant numerical bonus, or the one that the GM arbitrates to be the strongest.</span></p><h1><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Multitarget Attacks and Attack Rolls </span></h1><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Some techniques and other abilities call upon a character to make an attack roll that strikes against multiple targets in range, called a multitarget attack. These are made in the manner of a normal attack roll, with several exceptions:</span></p><ul><li><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Instead of targeting only one creature, the attack targets each creature fully or partially within its area of effect. </span></p></li><li><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">To determine if the attack hits a creature, the character compares their attack roll to that creature’s AC. </span></p></li><li><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">The attacker checks if the attack hit its targets in the order determined under Technique Areas of Effect, above. If a creature’s reaction or other ability causes the attacker to be unable to continue performing the attack (such as if the attacker is killed, incapacitated, or moved out of range), the attack counts as missing all subsequent creatures. </span></p></li><li><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">If the attack hits a creature, it inflicts its listed damage and other effects upon that creature. Effects that apply on a missed attack cannot be applied to this creature, even if the attack misses another creature. </span></p></li><li><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">If the attack misses a creature, effects that apply on a hit cannot be applied to this creature, even if the attack hits another creature. </span></p></li><li><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">The attacker cannot gain advantage on a multitarget attack roll unless the effect that grants advantage explicitly specifies that it applies to multitarget attack rolls.</span></p></li></ul>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "sort": 400000,
+      "name": "New Conditions",
+      "type": "text",
+      "_id": "qxQOaEW3Jg7Oxe6C",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>AiR p.251</p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">A number of techniques and other abilities in <strong>Adventures in Rokugan</strong> apply new negative status conditions. Remember that multiple iterations of a single condition cannot “stack,” per the SRD, but applying a new instance of a condition refreshes its duration.</span></p><h1><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Bleeding.</span></h1><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">A creature that is bleeding takes 1d4 piercing damage at the start of each of its turns. This effect ends once the creature has recovered hit points by any effect, or after the listed duration ends.</span></p><h1><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Disoriented.</span></h1><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">A disoriented creature can’t make attacks of opportunity. The duration of the disorientation depends on the ability that applies it.</span></p><h1><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Distracted.</span></h1><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">A distracted creature has a –2 penalty to its Armor Class. This condition ends after an attack hits the creature or after the listed duration ends.</span></p><h1><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Maimed.</span></h1><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">A creature that is maimed has –10 movement speed and has disadvantage on Dexterity saving throws. This effect ends once the creature has recovered hit points by any effect, or after the listed duration ends.</span></p><h1><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Marked for Death.</span></h1><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">A creature that is marked for death takes an additional 1d8 force damage the next time the creature that marked it for death hits it with a melee attack. This condition ends after the bonus damage is dealt or after the listed duration ends.</span></p><h1><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Provoked.</span></h1><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">A provoked creature has disadvantage on attack rolls against any creature other than the one that provoked it. The duration depends on the ability that applies it.</span></p><h1><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Weakened.</span></h1><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">A weakened creature loses its damage resistances, and its damage immunities become resistances. The duration depends on the ability that applies it.</span></p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "sort": 500000,
+      "name": "Martial Techniques",
+      "type": "text",
+      "_id": "MbkcMc8Xlxqa8npP",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>AiR p.251</p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Many martial arts traditions in Rokugan and the lands beyond teach their students training forms, ranging from practiced reactions to various attacks to longer, more intricate rehearsed sets of moves. Longer forms are generally composed of individual movements that a martial artist can use in more practical situations. </span></p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">In the hands of the most skilled martial artists, these techniques can allow a combatant to perform incredible physical feats and capitalize on openings that might slip away from less skilled combatants. As a practitioner advances in skill, some of these techniques can become overwhelmingly powerful. A few bushi and duelists in every generation even become known as legends who can bat aside entire squads with an earth-shattering sweep or cut down numerous foes in a fatal flurry of steel, far surpassing what the average soldier can do. Such individuals might be called sword saints, great masters, heroes, or villains, depending on how they decide to use the abilities they have honed to this nearly supernatural level. </span></p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">You can activate each martial technique a maximum of 1 time per turn, even if you have sufficient focus to pay its cost multiple times.</span></p><h1><span class=\"fontstyle0\">Martial Technique Terms</span></h1><p>AiR p.252</p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">The following terms are used in a martial technique, and appear in the following order. </span></p><h2><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Activation Time </span></h2><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">The activation time of a martial technique is based on the way you activate it. Martial techniques can be activated in the following ways:</span></p><blockquote><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\"><em><strong>1 Action</strong>: You must spend your action to activate this martial technique. </em></span></p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\"><em><strong>1 Attack (Your Turn):</strong> You must spend one attack (made as part of the Attack action, during your turn) to activate this martial technique, in which case you perform the technique instead of making that attack. When you make the Attack action, if you have the Extra Attack class feature, you can spend any number of these attacks to activate different martial techniques in any order of your choosing. For instance, if you had four attacks and 5 focus to spend, you could use Crashing Wave Cut, make two standard attacks, and then end your Attack action with a Flashing Steel Cut. </em></span></p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\"><em><strong>1 Opportunity Attack</strong>: You must spend one opportunity attack to activate this technique. </em></span></p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\"><em><strong>1 Reaction</strong>: You must spend your reaction to activate this martial technique, and you can only activate it in response to a specified event described in the effect.</em></span></p></blockquote><h2><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Focus Cost </span></h2><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">This is the number of focus points you must spend to activate the technique. Some focus costs have a “+” symbol alongside the number, in which case you can spend any number of focus points beyond the base cost (the printed number). Some part of the technique scales with these additional focus points spent.</span></p><h2><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Range </span></h2><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">A technique’s range is the area that it can affect. If a technique affects an area, this will specify that area of effect. If the area of effect originates with you, it will say “Self (area of effect).” </span></p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">When a technique’s range exceeds the range of the weapon used to execute it, this is because the force of the blow is such that even faraway foes are harmed. <strong>Adventures in Rokugan</strong> is fantasy with its roots in myth and folklore where such feats are commonplace, after all, and even heroes who do not wield magic can exceed the practical limits of the real world.</span></p><h2><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Mandatory Movement </span></h2><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Some techniques require space or speed to execute properly. Mandatory movement is movement that a character must have undertaken during their turn to perform the technique. Mandatory movement always specifies if it must take place before or after the technique is used. For instance, a technique might have a mandatory movement of “10 feet (before attacking),” in which case a character must have moved at least 10 feet during their turn prior to activating it. A character can undertake this movement by spending their movement speed to move (as normal), by moving as part of the technique, or by moving in any other way the GM deems appropriate. The movement can be in any direction unless the technique specifies otherwise.</span></p><h2><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Weapon Used </span></h2><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">This specifies the weapon type with which a technique must be executed. When a character performs a technique, they must choose one weapon of this type that they are already wielding with which to execute it. That weapon is used for the remainder of the technique. </span></p><h2><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Effects </span></h2><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">This section explains the effects of performing the technique. If an effect has a duration, that duration is specified here.</span></p><h2><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Bonus Effects </span></h2><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">This section explains any additional effects that occur if you met a specified condition when using the technique. For instance, if you used a weapon that deals slashing damage for the technique, you would resolve any bonus effects that begins with “If you used a weapon that deals slashing damage, …” and so on. If a bonus effect has a duration, that duration is specified here.</span></p><h2><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Other Terms </span></h2><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">These other terms are needed to understand martial techniques. </span></p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\"><strong>Weapon’s Damage</strong>. The damage and damage type your weapon deals. For instance, if you are wielding a spear in one hand (1d6 piercing), your weapon’s damage is 1d6 piercing. If you are wielding that spear in two hands (with its versatile property), your weapon’s damage is 1d8 piercing instead. If an effect deals a multiple of your weapon’s damage, you only double the dice (e.g. “two times your weapon’s damage” would be 2d6 piercing damage with a spear in one hand), and not any additional damage added (such as your ability modifier). </span></p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\"><strong>Weapon’s Range</strong>. If a technique’s range is “Weapon’s Range,” then it is determined by the range of the weapon. For most melee weapons, this is 5 feet. For melee weapons with the reach property, it is 10 feet. For ranged weapons with the ammunition property, it is the weapon’s long range. For ranged weapons with the thrown property, if you choose to throw it as part of the technique, it is the property’s long range. However, you can only choose to use a weapon’s thrown property if the technique specifies that it can be used with a thrown weapon. </span></p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\"><strong>Your Ability Modifier</strong>. If a technique adds your ability modifier to the damage, you add the ability score modifier that you use to wield that weapon (e.g. Strength for most melee weapons, or your choice of Strength or Dexterity for a weapon with the finesse property).</span></p><p></p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "sort": 600000,
+      "name": "Martial Technique Descriptions",
+      "type": "text",
+      "_id": "MjaPvtNiRfoSjzkn",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>AiR p. 253-259</p><p>The martial techniques are presented in alphabetical order.</p><p>@UUID[Compendium.air-compendium.techniques.7euUqecogAVyFRjB]{Crashing Wave Cut}</p><p>@UUID[Compendium.air-compendium.techniques.i6VW70239B8I0SXj]{Crescent Moon Defense}</p><p>@UUID[Compendium.air-compendium.techniques.zs64IGLkAM6niY8O]{Crimson Leaves Blow}</p><p>@UUID[Compendium.air-compendium.techniques.hutJxZZpBBHrgvBu]{Falling Heavens Shot}</p><p>@UUID[Compendium.air-compendium.techniques.wRewGC7ryIcH0MQF]{Flashing Steel Cut}</p><p>@UUID[Compendium.air-compendium.techniques.AWnzLIigIAwetRYP]{Flowing Water Strike}</p><p>@UUID[Compendium.air-compendium.techniques.zVHoN6apO9CuYWCD]{Grip of Lord Hida}</p><p>@UUID[Compendium.air-compendium.techniques.mXRpKpzmQLvT1O0a]{Heartpiercing Thrust}</p><p>@UUID[Compendium.air-compendium.techniques.dhiYuytKwCGVrNQd]{Iaijutsu Cut: Crossing Blade}</p><p>@UUID[Compendium.air-compendium.techniques.0pPkXSqwX0KMOrYU]{Iaijutsu Cut: Rising Blade}</p><p>@UUID[Compendium.air-compendium.techniques.A4rLTF0bSxFLludP]{Iron Forest Defense}</p><p>@UUID[Compendium.air-compendium.techniques.BYtSVSHznGYCYWwa]{Laughing Fox Defense}</p><p>@UUID[Compendium.air-compendium.techniques.LJ9gnTRtZL1RsHJt]{Snapping Branch Strike}</p><p>@UUID[Compendium.air-compendium.techniques.biUNz6WzXvNQBnNz]{Soaring Thunderbolt Strike}</p><p>@UUID[Compendium.air-compendium.techniques.6ZDFaGDjOnwMKrcz]{Sparking Steel Defense}</p><p>@UUID[Compendium.air-compendium.techniques.XFzZh7RvVOxrpPI3]{Soul-Sundering Strike}</p><p>@UUID[Compendium.air-compendium.techniques.zFjPZ5FP5d1QfkQR]{Swirling Viper Shot}</p><p>@UUID[Compendium.air-compendium.techniques.cC5AbDg9LAX6SxGO]{Twin Streams Thrust}</p><p>@UUID[Compendium.air-compendium.techniques.cdg3adM1F7Nho8VC]{Vanishing World Flurry}</p><p>@UUID[Compendium.air-compendium.techniques.wSaVFEEyAZnFgab0]{Veiled Menace Thrust}</p><p>@UUID[Compendium.air-compendium.techniques.kKRveeqCgYTQZiX4]{Wasp’s Spite Volley}</p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "sort": 700000,
+      "name": "Sheathed Melee Weapons",
+      "type": "text",
+      "_id": "Ip6CsreuST83U7Gv",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>AiR p.256</p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">A sheathed melee weapon is one that is on your person but has been in its scabbard since the end of your last turn. You are not generally considered to be wielding it.</span></p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "sort": 800000,
+      "name": "Invocations",
+      "type": "text",
+      "_id": "SQJGHHMxfAMlBcfX",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>AiR p.260</p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">A ritualist performs an invocation by calling upon one or more spirit: the elemental spirits that inhabit the Mortal Realm around them or the various spirits that make their homes in the Celestial Realms beyond. Most ritualist traditions are secretive, training only a select few. Therefore, ritualists of different traditions might have access to very different invocations, or know the same invocations by very different names, rites, and practices.</span></p><h1><span class=\"fontstyle0\">Element, Tier, and Type</span></h1><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Each invocation has an element listed under its name: air, earth, fire, water, or any. If an invocation’s element is “any,” choose air, earth, fire, or water. That is its element. An invocation’s element has no specific mechanical effects, but many abilities and class features interact with different elements in different ways.</span></p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Each invocation also has a tier listed under its name: tier 0, tier 1, tier 2, or tier 3. This reflects the complexity of the invocation, and when in a ritualist’s studies it becomes possible for them to learn it. Higher tier invocations are not strictly more powerful than their lower-tier equivalents, but they usually produce more narratively substantial effects. Tier 0 invocations are notable because they are the sorts of invocations that can be performed by most people with religious training, such as NPC spiritualists who are not trained as ritualists or non-ritualist characters who have selected the Apprentice Ritualist feat (see page 230).</span></p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Finally, each invocation has a type listed beneath its name. The types are:</span></p><ul><li><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Augmentation: Invocations that change or bolster their targets.</span></p></li><li><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Illusion: Invocations that fool the senses into believing something exists when it does not.</span></p></li><li><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Mending: Invocations that restore their targets.</span></p></li><li><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Purification: Invocations that cast out or prevent the passage of evil spirits.</span></p></li><li><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Scrying: Invocations that reveal information or show glimpses of other places and times.</span></p></li><li><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Smite: Invocations that cause harm to targets.</span></p></li><li><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Summoning: Invocations that create something.</span></p></li></ul><h1><span class=\"fontstyle0\">Favor</span></h1><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Favor reflects the willingness of the spirits with whom the ritualist communes to perform extraordinary feats on their behalf. Ritualists have a pool of favor they can use for their invocations (see Invocations and Favor on page 90).</span></p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Many invocations have a base favor cost of 0, meaning they can be used at will, while more powerful invocations have a base favor cost of 1 or more, meaning they can be used only if the ritualist pays that favor cost.</span></p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Certain class features and effects such as Resonances (see page 262) grant “bonus favor.” Bonus favor can be spent only on empowerments (see below), and <strong>cannot</strong> be used to pay base favor costs.</span></p><h2><span class=\"fontstyle0\">Spending Favor on Empowerments</span></h2><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">In addition to being used to pay an invocation’s favor cost, favor can be spent to add one or more empowerments to an invocation. Empowerments can be added only when the invocation is being performed, and the favor for empowerments must be paid at the same time as the base favor cost.</span></p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Both standard favor (granted by levels in the ritualist class) and bonus favor from resonances and other sources can be spent on empowerments.</span></p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "sort": 900000,
+      "name": "Invocation Terms",
+      "type": "text",
+      "_id": "wzKV4OIDCE7A7pjZ",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>AiR p.260</p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">The following terms are used in an invocation, and appear in the following order.</span></p><h1><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Casting Time</span></h1><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Each invocation has a casting time, which specifies whether the character performing the invocation must use an action, reaction, minutes, or another timeframe to perform it.</span></p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">For many invocations, the casting time can be shortened by spending favor, allowing an invocation that takes minutes to be performed in an action, or in an even shorter timeframe.</span></p><h1><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Base Favor Cost</span></h1><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">The amount of favor a ritualist must pay to perform the invocation. Note that for many invocations, this cost is 0, meaning the invocation can be performed at will, but for especially potent invocations, it can be higher.</span></p><h1><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Range</span></h1><p>AiR p.261</p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">The targets of an invocation must be within its range. For some invocations, the target is a creature or object. For others, it is an area of effect around the invoker or a point in space within range.</span></p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Once an invocation has been performed, its ongoing effects aren’t limited by its range unless these effects specify otherwise.</span></p><h1><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Components (Required)</span></h1><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Invocations can have some or all of the following components:</span></p><h2><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Verbal and Somatic Components.</span></h2><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">All invocations require specific intonations and gestures to perform. These components are verbal (V) and somatic (S). Verbal components are words of power to entice the spirits, while somatic components are physical movements to direct their efforts. If a character cannot complete these parts of the ritual, they cannot perform the invocation. Thus, if a character cannot speak (such as if they are gagged) or does not have at least one hand free (such as if they are holding something in both hands or suffering the restrained condition), they generally cannot perform invocations. See <strong>A Note on Accommodations</strong> for more about how individual characters’ verbal and somatic components might vary.</span></p><h2><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Material Components.</span></h2><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Additionally, a few invocations require specific tools or objects called material components (M) to even attempt. These components must be acquired in advance, and are expended as part of the invocation.</span></p><h2><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Resonances </span></h2><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Some invocations are more effective under certain circumstances where the spirits they invoke are at the pinnacle of power. For instance, a prayer to Lady Sun is more effective under her blazing light, and an invocation of a forest spirit is more powerful away from places of human habitation. When a character performs an invocation, resonances can grant bonus favor listed after the resonance that the character can spend to empower the invocation. Bonus favor granted by resonances can be used only on empowerments. If that bonus favor is not spent, it is lost. If an invocation lists multiple resonances, a character can use more than one resonance so long as they meet all the listed circumstances. </span></p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Bonus favor gained this way or through class features cannot be used to pay the base favor cost or any ongoing costs for an invocation.</span></p><h2><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Duration </span></h2><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">The amount of time the invocation’s effects persist. This can be rounds, minutes, hours, or even years. The duration also applies to any secondary effects of the invocation, such as its empowerments, unless they explicitly state otherwise. </span></p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Some invocations have a duration of “Ongoing” with a cost (usually in favor) listed in parentheses. These invocations last until the start of the character’s next turn by default. However, at the start of their turn, they can pay the cost to extend an ongoing invocation. If the character does not pay the cost, the effect ends immediately. If they do pay the cost, it continues until the start of their next turn, when they can again choose to pay the cost to extend the duration.</span></p><h2><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Effects </span></h2><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">This section offers a description of the invocation and explains the effects of performing it.</span></p><h2><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Empowerments </span></h2><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">The empowerments available for an invocation are listed alongside their favor costs. If an empowerment’s listed cost includes a “+” (e.g. 1+ favor or 2+ favor), the character performing the invocation can spend any number of additional favor beyond the number listed for some scaling bonus to the empowerment, described within the empowerment’s text. </span></p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Additionally: </span></p><ul><li><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Each empowerment can be selected only once per use of an invocation. </span></p></li><li><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">A character chooses which empowerments they wish to use when they select the invocation they are performing, before they choose targets or resolve any of the invocation’s effects. Favor costs for these empowerments must be paid at this time. </span></p></li><li><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">When an invocation’s duration ends, all of its empowerments end unless they explicitly state otherwise.</span></p></li></ul>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "sort": 750000,
+      "name": "Invocations and Spells",
+      "type": "text",
+      "_id": "8VVEGG9zIEoVgJWu",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>AiR p.261</p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Invocations are distinct from the spells presented in other 5e materials, from the perspectives of both story and mechanics. They are spiritual contracts with beings innate to Rokugan that do not necessarily exist in other worlds, and their mechanics reflect their specific nature. They have different requirements and restrictions, and use an entirely different resource system in the form of favor. On the other hand, if using other 5e materials alongside <strong>Adventures in Rokugan</strong>, it is useful to know how abilities that affect spells can interact with invocations.</span></p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">If the GM determines it is logical for a particular ability that interacts with spells to interact with an invocation, the GM can do so in the following manner:</span></p><ul><li><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Treat all instances of “spell” as “spell or invocation”</span></p></li><li><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">If the ability in question calls for a spell’s level, use the invocation’s tier plus the amount of favor used to empower it, to a minimum of 1 and a maximum of 9.</span></p></li><li><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">The GM is the final arbiter of whether a particular ability that interacts with spells also interacts with invocations or not. For instance, the GM could determine that an anti-magic field created by someone unfamiliar with Rokugan’s spirits doesn’t actually prevent them from acting, but a warded field set up by someone familiar with them does.</span></p></li></ul>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "core": {
+          "sourceId": "JournalEntry.2yvHzldWazcwsdlj.JournalEntryPage.8VVEGG9zIEoVgJWu"
+        }
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "sort": 1100000,
+      "name": "A Note on Accommodations",
+      "type": "text",
+      "_id": "anXmReBGSZtSZMxc",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>AiR p.262</p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">Disabled characters can make substitutions for narrative and mechanical requirements for techniques, class features, feats, and other abilities as needed. For instance, a character with only one arm could wield a two-handed weapon through training and adaptation of the martial forms for that weapon. As every disability is different, and even characters with the same disability may seek different ways of navigating life as an adventurer, there is no way to account for every possibility within the rules except to say that players can work with their GMs to find suitable alternatives to make sure their characters are able to interact with the world as they would like to. Mechanical accommodations should not be exploited by players who only seek to utilize this flexibility in the rules for mechanical advantage and are not willing to do basic research into fairly representing the disability of their character. </span></p><p><span style=\"font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'\">From a narrative standpoint, disabilities are not seen as shameful or dooming by society in <strong>Adventures of Rokugan</strong>, and most people are more than happy to oblige when an accommodation is in order.</span></p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    }
+  ],
+  "flags": {
+    "core": {},
+    "exportSource": {
+      "world": "air",
+      "system": "dnd5e",
+      "coreVersion": "11.307",
+      "systemVersion": "2.3.0"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.3.0",
+    "coreVersion": "11.307",
+    "createdTime": 1677039467031,
+    "modifiedTime": 1692158440257,
+    "lastModifiedBy": "t7UE1inU8eg27wBm"
+  },
+  "folder": "WTu1BHrsIkZbucr8"
+}
